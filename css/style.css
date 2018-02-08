@@ -2363,7 +2363,22 @@ textarea {
     overflow: hidden;
     z-index: 1;
   }
+
+  .image img {
+    width: 65%;
+  }
+
+  .bottom101,
+  .darkcolor1,
+  .owner {
+    margin-left: -38%;
+  }
+
+  .team_caption {
+    margin-left: 0px;
+  }
 }
+
 @media screen and (max-width: 370px) {
   .overlay-menu ul.full-nav li > span {
     display: none;
